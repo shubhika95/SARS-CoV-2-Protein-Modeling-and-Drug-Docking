@@ -1,0 +1,12 @@
+receptor = 2ghv.pdbqt
+ligand = ligand.pdbqt
+
+center_x = -18.955
+center_y = -5.188
+center_z = 8.617
+
+size_x = 60
+size_y = 60
+size_z = 60
+
+exhaustiveness = 8
